@@ -30,4 +30,20 @@ EC2 instance has been created
 
 Task3 Connect to ec2 via SSH. Check that it works
 
+Starting EC2 instance
+![alt text](<screenshots/Знімок екрана з 2024-04-20 04-58-40.png>)
+![alt text](<screenshots/Знімок екрана з 2024-04-20 04-59-13.png>)
+
+Creating SSH config 
+![alt text](<screenshots/Знімок екрана з 2024-04-20 04-55-55.png>)
+
+Connecting to EC2 instance
+![alt text](<screenshots/Знімок екрана з 2024-04-20 04-57-26.png>)
+![alt text](<screenshots/Знімок екрана з 2024-04-20 04-57-39.png>)
+![alt text](<screenshots/Знімок екрана з 2024-04-20 04-58-01.png>)
+
+
 Task4 Destroy test ec2
+Stopping EC2 instance
+![alt text](<screenshots/Знімок екрана з 2024-04-20 04-59-43.png>)
+![alt text](<screenshots/Знімок екрана з 2024-04-20 05-00-36.png>)
